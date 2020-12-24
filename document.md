@@ -1,5 +1,5 @@
 # /bpg/ - The Beginner Programmer's General
-This is a work in progress.
+[Thread text available here](https://git.lain.church/WeedSmokingJew/bpg-document/raw/branch/master/thread.txt).
 
 Unofficial mirror of [the official document](https://docs.google.com/document/d/1SC8tXlg5p-1SqwwddRdzNv-8MJmQ1WFSMOsMXfT7BNM/edit?usp=sharing), with some additions. [Find a thread on /g/](https://boards.4channel.org/g/bpg) or [view historical threads](https://rbt.asia/g/search/subject/%2Fbpg%2F/ghost/none/type/op/). [Join the Discord](https://discord.gg/YfBUDU7GYn).
 *(Hopefully) current as of December 5, 2020.*
