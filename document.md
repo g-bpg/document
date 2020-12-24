@@ -8,9 +8,9 @@ Unofficial mirror of [the official document](https://docs.google.com/document/d/
 [TOC2]
 
 ## Contributing
-Right now, there is no real way of contributing. I (Rentry document owner, not Google Docs owner) might setup a Git repository which would allow people to contribute, but will not for now.
-Right now, it's being setup on [GitLain](https://git.lain.church), should be available Soon(tm).
-Other than that, reply to a thread about changes you might want to be made.
+There is a [Git repository](https://git.lain.church/WeedSmokingJew/bpg-document) that gets synced to the Rentry occasionally.
+
+*Don't want to make an account on GitLain?* Other than that, reply to a thread about changes you might want to be made.
 
 **NOTE ON CONTRIBUTING TO THE ORIGINAL GOOGLE DOC:** *Use incognito mode!* No, seriously! Your name might be attributed to the changes you make, so you might dox yourself slightly by giving away your name to everyone.
 
