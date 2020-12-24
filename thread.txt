@@ -1,0 +1,37 @@
+Last thread: (change me)
+
+> What is this?
+/bpg/ is the Beginner Programmer's General, your one-stop shop for all things
+pertaining to learning the ropes of the fascinating world of computer science.
+
+This is a small experiment, with the idea of a "beginner's general" borrowed
+from /ic/.
+
+Something rather useful in /ic/'s /beg/ is a document with a collection of
+resources and advice. I took the time to write such a document, linked below.
+
+In broad terms, the beginner's document contains answers to common questions
+such as "Which language should I start?", "How do I learn programming?", and
+"What are tools I can use to program"?
+
+> Why? 
+I've noticed a lot of people on /dpt/ asking the same sort of questions, and it
+commonly devolves into a shitshow. The hope is by splitting, we slow down /dpt/
+and are able to have more substantial discussions in both threads.
+
+> The Document
+https://docs.google.com/document/d/1SC8tXlg5p-1SqwwddRdzNv-8MJmQ1WFSMOsMXfT7BNM/edit?usp=sharing (original document)
+https://rentry.co/bpg (same content, with some additions)
+
+> Contributing
+https://git.lain.church/WeedSmokingJew/bpg-document
+or use (((incognito))) mode on the Google document.
+
+Python script to generate the thread image:
+https://pastebin.com/ckbpH1Ud
+
+> Discord Server
+discord gg YfBUDU7GYn
+Not very active and small, might disappear in the coming weeks depending on how things fair out. But, we might answer your question here too!
+> muh irc
+Join #/g/bpg on Rizon. It's mirrored to the Discord's #general.
