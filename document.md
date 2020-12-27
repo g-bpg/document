@@ -10,7 +10,7 @@ Unofficial mirror of [the official document](https://docs.google.com/document/d/
 ## Contributing
 There is a [Git repository](https://git.lain.church/WeedSmokingJew/bpg-document) that gets synced to the Rentry occasionally.
 
-*Don't want to make an account on GitLain?* Other than that, reply to a thread about changes you might want to be made.
+*Don't want to make an account on GitLain?* Reply to a thread about changes you might want to be made, maybe even a pastebin to a diff file, or suggest on the Google Doc.
 
 **NOTE ON CONTRIBUTING TO THE ORIGINAL GOOGLE DOC:** *Use incognito mode!* No, seriously! Your name might be attributed to the changes you make, so you might dox yourself slightly by giving away your name to everyone.
 
