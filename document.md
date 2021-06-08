@@ -1,18 +1,12 @@
 # /bpg/ - The Beginner Programmer's General
-[Thread text available here](https://git.lain.church/WeedSmokingJew/bpg-document/raw/branch/master/thread.txt).
+[Thread text available here](https://github.com/g-bpg/document/blob/master/thread.txt).
 
-Unofficial mirror of [the official document](https://docs.google.com/document/d/1SC8tXlg5p-1SqwwddRdzNv-8MJmQ1WFSMOsMXfT7BNM/edit?usp=sharing), with some additions. [Find a thread on /g/](https://boards.4channel.org/g/bpg) or [view historical threads](https://rbt.asia/g/search/subject/%2Fbpg%2F/ghost/none/type/op/). [Join the Discord](https://discord.gg/YfBUDU7GYn).
-*(Hopefully) current as of December 5, 2020.*
+See [the official document](https://docs.google.com/document/d/1SC8tXlg5p-1SqwwddRdzNv-8MJmQ1WFSMOsMXfT7BNM/edit?usp=sharing). Don't contribute there, contribute here.
+[Find a thread on /g/](https://boards.4channel.org/g/bpg) or [view historical threads](https://desuarchive.org/g/search/subject/%2Fbpg%2F/ghost/none/type/op/).
+Scroll to the bottom if you want to talk to /bpg/ off of Discord.
 
 ## Table of Contents
 [TOC2]
-
-## Contributing
-There is a [Git repository](https://git.lain.church/WeedSmokingJew/bpg-document) that gets synced to the Rentry occasionally.
-
-*Don't want to make an account on GitLain?* Reply to a thread about changes you might want to be made, maybe even a pastebin to a diff file, or suggest on the Google Doc.
-
-**NOTE ON CONTRIBUTING TO THE ORIGINAL GOOGLE DOC:** *Use incognito mode!* No, seriously! Your name might be attributed to the changes you make, so you might dox yourself slightly by giving away your name to everyone.
 
 ## What is Programming?
 At a fundamental level, *programming* is the act of telling your computer to execute instructions to accomplish a task. There are quite a few *sub-fields* within computer science, so knowing what you're interested in will be very helpful:
@@ -91,8 +85,7 @@ There isn't a single soul that hasn't asked this question. However, we can't rea
 
 1. What you're trying to do
 2. Where you're having trouble
-3. If you've searched for the error already, explain what part you
-    aren't understanding.
+3. If you've searched for the error already, explain what part you aren't understanding.
 4. Post output in a pastebin.
 
 Try to also solve the problem yourself; this will give you experience reading error messages.
@@ -108,12 +101,14 @@ An *IDE* (Integrated Development Environment). It provides everything you need t
 2. [*Eclipse - Java Programming*](https://www.eclipse.org/downloads/)
 3. [*NetBeans - Java Programming*](https://netbeans.apache.org/download/index.html) (More Beginner-Friendly)
 4. [*PyCharm, Python Programming*](https://www.jetbrains.com/pycharm/)
+    1. If you're a fan of PyCharm, JetBrains provides IDEs for other languages although you might have to pay for them.
 
 ### Text Editors
 A *text editor* is a more barebones version of an IDE. These are necessarily much more difficult to get started with, so I would suggest holding up on them until you're comfortable programming. Some of the main text editors are
 
 1. *Nano* - A *very* barebones text editor. You can type, you can delete, you can search, and that's about it.
 2. *VIM* - *Vi, IMproved* - A more advanced text editor. The main way you edit text is by switching between *modes*. Make sure you follow *vimtutor* before doing anything serious in vim.
+    1. Neovim is pretty much the same thing as vim if this confuses you.
 3. *Emacs* - *Editor MACroS* - Commonly referred to as a "hackable text editor", Emacs allows you to change how the editor functions. To extend it, all you need to do is write some lisp.
     1. Common frameworks for emacs are *Spacemacs* and *DOOM Emacs*, which provide a bunch of functionality out of the box.
 
@@ -189,6 +184,7 @@ After taking intro-to-CS courses, I found the following to work reasonably effec
 3. Once you do that, make a small program, like a clone of *ls*.
 
 Zed Shaw has a series called [*Learn Code the Hard Way*](https://learncodethehardway.org/) that people seem to like. Currently, [*Python*](https://learncodethehardway.org/python), [*more Python*](http://learncodethehardway.org/more-python/), [*Ruby*](http://learncodethehardway.org/ruby/), [*C*](http://learncodethehardway.org/c/), and [*JavaScript*](http://learncodethehardway.org/javascript/) are available, along with books for [*SQL*](http://learncodethehardway.org/sql/), [*UNIX*](http://learncodethehardway.org/unix/) and [*Regex*](http://learncodethehardway.org/regex/).
+He is however a controversial figure and I've read many responses that say that his books are garbage but many other responses say they're good.
 
 #### Project Based Learning
 Project Based Learning is also a way to learn a language, where you learn a language by actually building projects. You might not use them, they probably wont look good on a portfolio, but it might just get the job done.
@@ -199,7 +195,7 @@ Project Based Learning is also a way to learn a language, where you learn a lang
 
 ## Useful Libraries in Language X
 ### Python
-To use a python library, you have to run `import *` or `from * import *`.
+To use a python library, you have to run `import <library>`, or alternatively `from <library> import <something>` which allows you to use whatever you imported without typing `<library>` behind it.
 
 Library Name | Description
 -- | --
@@ -227,7 +223,7 @@ Library Name | Description
  *os*       | Advanced                  | Operating System utilities, such as process management, low-level file creation, and miscellaneous error handling. Of particular interest is the *os.path* submodule
 
 ### C
-Note that any C library can be included by *linking it *with your executable. This usually involves installing the library to your */usr/lib/ *folder, and then specifying a path to your library while compiling.
+Note that any C library can be included by *linking it* with your executable. This usually involves installing the library to your */usr/lib/* folder, and then specifying a path to your library while compiling.
 
 Library Name | Description
 -- | --
@@ -288,7 +284,8 @@ Knowing about Systems also allows you to improve the performance of your program
 
 ### Other Ideas
 1. *[Project Euler](https://projecteuler.net/)* - Math problems you can solve via programming. Starts out easy, quickly gets very difficult. (Need an account)
-2. *[Advent of Code](https://adventofcode.com)* - Coding advent calendar. (Need an account on another service, like \>reddit)
+2. *[Advent of Code](https://adventofcode.com)* - Coding advent calendar, you get a new Christmas-themed challenge every day until the 25th. Historical calendars are available. (Need an account on another service, like \>reddit or GitHub.)
+3. *[Leetcode](https://leetcode.com/)* - (ripped off of front page) "LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews."
 3. Implement basic Unix coreutils such as *grep*, *ls*, and *cat*
 
 #### Other Resources
@@ -296,3 +293,56 @@ Knowing about Systems also allows you to improve the performance of your program
     1. [OSSU Computer Science](https://github.com/ossu/computer-science)
     2. [OSSU Data Science](https://github.com/ossu/data-science)
 2. [Programming, Motherfucker](http://programming-motherfucker.com/become.html) - Written by Zed Shaw, the person behind the *Learn X the Hard Way* series.
+
+*note: What you need to know ends here. If you don't want to contribute or talk to /bpg/ outside of 4chan, there's nothing else to see.*
+
+## Contributing
+This document is rough in some places, so if you have an improvement you can submit it to the [Git repository](https://github.com/g-bpg/document).
+
+I read the threads occasionally, so just suggest things there and it might find it's way through to me, or alternatively use the meta channels (see next section for more details).
+Or just use GitHub.
+
+**NOTE ON CONTRIBUTING TO THE ORIGINAL GOOGLE DOC:** *Use incognito mode!* No, seriously! Your name might be attributed to the changes you make, so you might dox yourself slightly by giving away your name to everyone.
+Also, you shouldn't anyway. The author of that document has since said to just use this instead of his document.
+
+## Talk to /bpg/!
+**READ THE RULES FIRST IF YOU INTEND ON JOINING.** It's a 30 second read, you can do it.
+
+The main spot to talk is [on the Discord](https://discord.gg/YfBUDU7GYn) but Matrix and IRC bridges are operated too, but as a warning they are kinda slow and unreliable at times.
+It is slow at times, excluding off-topic, but if you ask for help you might get an answer provided you don't feed the trolls.
+
+[Here's the link for the Matrix space.](https://matrix.to/#/!iCmyhLwtzepRiZOYSh:matrix.org?via=matrix.org) Turn on spaces, *or* see the table below.
+
+Bridges are operated, here is the mapping: *All IRC channels are on Rizon.*
+
+**Discord** | **IRC** | **Matrix** | **Note**
+--|--|--
+announcements|N/A|#g-bpg-announcements:matrix.org|I'll work on getting this on IRC eventually.
+meta|#/g/bpg/meta|#g-bpg-meta:matrix.org|Discussion regarding /bpg/.
+general|#/g/bpg|#g-bpg-general:matrix.org|
+off-topic|#/g/bpg/off-topic|#g-bpg-offtopic:matrix.org|Most people are active here but it can be a cesspool at times.
+lang-c|#/g/bpg/c|#g-bpg-c:matrix.org|
+lang-java|N/A|N/A|
+lang-lisp|#/g/bpg/lisp|#g-bpg-lisp:matrix.org
+lang-python|#/g/bpg/python|#gbpg-python:matrix.org|**THE MATRIX ROOM NAME IS NOT A TYPO.**
+lang-rust|#/g/bpg/rust|#g-bpg-rust:matrix.org|
+lang-shell|#/g/bpg/shell|#g-bpg-shell:matrix.org|
+
+### Da Roolez
+It's expected you read this bit before you join any community/channel, but they are *intentionally* kept as *light as possible*.
+Punishments range from just a simple message deletion to a ban, if you do manage to break these rules you're doing something very wrong.
+
+- Don't post pornography or NSFW/NSFW content. This isn't /h/.
+- Don't post people's dox.
+- Don't aggressively shill other communities/channels.
+  - This isn't to say you can't do it if it pertains to a discussion. Just don't DM people/spam channels advertising whatever.
+- Don't spam.
+- Keep things civil. 
+- Off-topic discussion belongs in off-topic channels.
+
+## That's all folks!
+Congratulations, you have reached the end of the document.
+
+With a little bit of luck and willpower, you will eventually become a programmer and if you wish, even enter the CS field.
+
+Good luck on your journey!
