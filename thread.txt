@@ -1,37 +1,20 @@
-Last thread: (change me)
+Last thread: CHANGEME
 
-> What is this?
-/bpg/ is the Beginner Programmer's General, your one-stop shop for all things
-pertaining to learning the ropes of the fascinating world of computer science.
+>What is this?
+/bpg/ is the Beginner's Programmer General, your one-stop shop for all things pertaining to learning the ropes of the fascinating world of computer science. The idea of a "beginner's general" is borrowed from /ic/.
 
-This is a small experiment, with the idea of a "beginner's general" borrowed
-from /ic/.
+>"How do I learn programming?"
+>"Which language should I start with?"
+>"What are tools I can use to program?"
+See the document at >>>> https://rentry.co/bpg <<<<
 
-Something rather useful in /ic/'s /beg/ is a document with a collection of
-resources and advice. I took the time to write such a document, linked below.
-
-In broad terms, the beginner's document contains answers to common questions
-such as "Which language should I start?", "How do I learn programming?", and
-"What are tools I can use to program"?
-
-> Why? 
-I've noticed a lot of people on /dpt/ asking the same sort of questions, and it
-commonly devolves into a shitshow. The hope is by splitting, we slow down /dpt/
-and are able to have more substantial discussions in both threads.
-
-> The Document
-https://docs.google.com/document/d/1SC8tXlg5p-1SqwwddRdzNv-8MJmQ1WFSMOsMXfT7BNM/edit?usp=sharing (original document)
-https://rentry.co/bpg (same content, with some additions)
-
-> Contributing
-https://git.lain.church/WeedSmokingJew/bpg-document
-or use (((incognito))) mode on the Google document.
+>Why?
+A lot of people on /dpt/ ask the same sort of questions and it devolves into a shitshow. The hope is that by separating we can slow down /dpt/ and are able to have more substantial discussions in both threads.
 
 Python script to generate the thread image:
 https://pastebin.com/ckbpH1Ud
 
-> Discord Server
-discord gg YfBUDU7GYn
-Not very active and small, might disappear in the coming weeks depending on how things fair out. But, we might answer your question here too!
-> muh irc
-Join #/g/bpg on Rizon. It's mirrored to the Discord's #general.
+>I want to talk off-thread
+Scroll to the bottom of the rentry. IRC, Matrix and Discord are provided and are all bridged together.
+
+Crack a beer and start coding, bros.
