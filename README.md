@@ -1,7 +1,7 @@
 # bpg-document
 
 The Markdown document for /bpg/, the Beginners Programming General.
-[See the document](https://git.lain.church/WeedSmokingJew/bpg-document/src/branch/master/document.md), might be slightly broken because it's not Rentry.
+[See the document](https://rentry.co/bpg).
 
 Speaking of which, the Rentry will be updated occasionally, from this repository.
 
