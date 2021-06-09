@@ -316,7 +316,7 @@ It is slow at times, excluding off-topic, but if you ask for help you might get 
 Bridges are operated, here is the mapping: *All IRC channels are on Rizon.*
 
 **Discord** | **IRC** | **Matrix** | **Note**
---|--|--
+--|--|--|--
 announcements|N/A|#g-bpg-announcements:matrix.org|I'll work on getting this on IRC eventually.
 meta|#/g/bpg/meta|#g-bpg-meta:matrix.org|Discussion regarding /bpg/.
 general|#/g/bpg|#g-bpg-general:matrix.org|
