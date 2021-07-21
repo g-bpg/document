@@ -322,7 +322,6 @@ meta|#/g/bpg/meta|#g-bpg-meta:matrix.org|Discussion regarding /bpg/.
 general|#/g/bpg|#g-bpg-general:matrix.org|
 off-topic|#/g/bpg/off-topic|#g-bpg-offtopic:matrix.org|Most people are active here but it can be a cesspool at times.
 lang-c|#/g/bpg/c|#g-bpg-c:matrix.org|
-lang-java|N/A|N/A|
 lang-lisp|#/g/bpg/lisp|#g-bpg-lisp:matrix.org
 lang-python|#/g/bpg/python|#gbpg-python:matrix.org|**THE MATRIX ROOM NAME IS NOT A TYPO.**
 lang-rust|#/g/bpg/rust|#g-bpg-rust:matrix.org|
