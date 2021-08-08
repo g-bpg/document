@@ -1,7 +1,6 @@
 # /bpg/ - The Beginner Programmer's General
 [Thread text available here](https://github.com/g-bpg/document/blob/master/thread.txt).
 
-See [the official document](https://docs.google.com/document/d/1SC8tXlg5p-1SqwwddRdzNv-8MJmQ1WFSMOsMXfT7BNM/edit?usp=sharing). Don't contribute there, contribute here.
 [Find a thread on /g/](https://boards.4channel.org/g/bpg) or [view historical threads](https://desuarchive.org/g/search/subject/%2Fbpg%2F/ghost/none/type/op/).
 Scroll to the bottom if you want to talk to /bpg/ off of 4chan.
 
