@@ -318,8 +318,8 @@ Bridges are operated, here is the mapping: *All IRC channels are on Rizon.*
 --|--|--|--
 announcements|N/A|#g-bpg-announcements:matrix.org|I'll work on getting this on IRC eventually.
 meta|#/g/bpg/meta|#g-bpg-meta:matrix.org|Discussion regarding /bpg/.
-general|#/g/bpg|#g-bpg-general:matrix.org|
-off-topic|#/g/bpg/off-topic|#g-bpg-offtopic:matrix.org|Most people are active here but it can be a cesspool at times.
+general|#/g/bpg|#g-bpg-general:matrix.org|General discussion channel with no topic, but keep shitposts in the shitposting channel.
+shitposting|#/g/bpg/off-topic|#g-bpg-offtopic:matrix.org|Used to be #off-topic, now used exclusively for shitposts
 lang-c|#/g/bpg/c|#g-bpg-c:matrix.org|
 lang-lisp|#/g/bpg/lisp|#g-bpg-lisp:matrix.org
 lang-python|#/g/bpg/python|#gbpg-python:matrix.org|**THE MATRIX ROOM NAME IS NOT A TYPO.**
@@ -332,11 +332,10 @@ Punishments range from just a simple message deletion to a ban, if you do manage
 
 - Don't post pornography or NSFW/NSFW content. This isn't /h/.
 - Don't post people's dox.
-- Don't aggressively shill other communities/channels.
-  - This isn't to say you can't do it if it pertains to a discussion. Just don't DM people/spam channels advertising whatever.
 - Don't spam.
-- Keep things civil. 
-- Off-topic discussion belongs in off-topic channels.
+  - You can shill things and advertise, provided it isn't spamming or it somewhat pertains to a conversation.
+- Keep things somewhat civil. 
+- Please keep discussion in their respective channels. Keep shitposting in #shitposting.
 
 ## That's all folks!
 Congratulations, you have reached the end of the document.
