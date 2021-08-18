@@ -301,9 +301,6 @@ This document is rough in some places, so if you have an improvement you can sub
 I read the threads occasionally, so just suggest things there and it might find it's way through to me, or alternatively use the meta channels (see next section for more details).
 Or just use GitHub.
 
-**NOTE ON CONTRIBUTING TO THE ORIGINAL GOOGLE DOC:** *Use incognito mode!* No, seriously! Your name might be attributed to the changes you make, so you might dox yourself slightly by giving away your name to everyone.
-Also, you shouldn't anyway. The author of that document has since said to just use this instead of his document.
-
 ## Talk to /bpg/!
 **READ THE RULES FIRST IF YOU INTEND ON JOINING.** It's a 30 second read, you can do it.
 
