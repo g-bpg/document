@@ -302,37 +302,7 @@ I read the threads occasionally, so just suggest things there and it might find 
 Or just use GitHub.
 
 ## Talk to /bpg/!
-**READ THE RULES FIRST IF YOU INTEND ON JOINING.** It's a 30 second read, you can do it.
-
-The main spot to talk is [on the Discord](https://discord.gg/YfBUDU7GYn) but Matrix and IRC bridges are operated too, but as a warning they are kinda slow and unreliable at times.
-It is slow at times, excluding off-topic, but if you ask for help you might get an answer provided you don't feed the trolls.
-
-[Here's the link for the Matrix space.](https://matrix.to/#/!iCmyhLwtzepRiZOYSh:matrix.org?via=matrix.org) Turn on spaces, *or* see the table below.
-
-Bridges are operated, here is the mapping: *All IRC channels are on Rizon.*
-
-**Discord** | **IRC** | **Matrix** | **Note**
---|--|--|--
-announcements|N/A|#g-bpg-announcements:matrix.org|I'll work on getting this on IRC eventually.
-meta|#/g/bpg/meta|#g-bpg-meta:matrix.org|Discussion regarding /bpg/.
-general|#/g/bpg|#g-bpg-general:matrix.org|General discussion channel with no topic, but keep shitposts in the shitposting channel.
-shitposting|#/g/bpg/off-topic|#g-bpg-offtopic:matrix.org|Used to be #off-topic, now used exclusively for shitposts
-lang-c|#/g/bpg/c|#g-bpg-c:matrix.org|
-lang-lisp|#/g/bpg/lisp|#g-bpg-lisp:matrix.org
-lang-python|#/g/bpg/python|#gbpg-python:matrix.org|**THE MATRIX ROOM NAME IS NOT A TYPO.**
-lang-rust|#/g/bpg/rust|#g-bpg-rust:matrix.org|
-lang-shell|#/g/bpg/shell|#g-bpg-shell:matrix.org|
-
-### Da Roolez
-It's expected you read this bit before you join any community/channel, but they are *intentionally* kept as *light as possible*.
-Punishments range from just a simple message deletion to a ban, if you do manage to break these rules you're doing something very wrong.
-
-- Don't post pornography or NSFW/NSFW content. This isn't /h/.
-- Don't post people's dox.
-- Don't spam.
-  - You can shill things and advertise, provided it isn't spamming or it somewhat pertains to a conversation.
-- Keep things somewhat civil. 
-- Please keep discussion in their respective channels. Keep shitposting in #shitposting.
+Closed indefinitely, may be back soon.
 
 ## That's all folks!
 Congratulations, you have reached the end of the document.
